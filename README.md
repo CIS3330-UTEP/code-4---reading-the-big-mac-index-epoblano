@@ -1,9 +1,9 @@
 ## CIS3330-Reading-The-Big-Mac-Index
 
-## Instructions
 
 In this coding assignment, you are asked to create a little program to find information in a CSV file. You can code your program using the libraries CSV or Pandas.
 Your program should include the following functions:
+## Instructions
 
 * `get_big_mac_price_by_year`
   + The function receives the **year** and the **country_code in lower case**
